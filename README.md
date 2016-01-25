@@ -39,6 +39,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+The biggest challenge that I encountered was to get the movie list to refresh. This required a bit of trial and error and rearrangement of codes.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
