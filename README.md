@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 **Name of your app** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **7** hours spent in total
+Time spent: **11** hours spent in total
 
 ## User Stories
 
@@ -38,7 +38,7 @@ The following **required** functionality is completed:
 
 - [X] User can view movie details by tapping on a cell.
 - [X] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
-- [ ] Customize the selection effect of the cell.
+- [X] Customize the selection effect of the cell.
 
 The following **optional** features are implemented:
 
@@ -90,7 +90,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-![demo](movieViewer.gif)
+![demo](movieViewer2.gif)
 
 Describe any challenges encountered while building the app.
 
